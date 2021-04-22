@@ -1,0 +1,17 @@
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\bin\Debug\AdatKijelzo.exe.config
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\bin\Debug\AdatKijelzo.exe
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\bin\Debug\AdatKijelzo.pdb
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.csprojAssemblyReference.cache
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\Interop.SystemMonitor.dll
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.csproj.ResolveComReference.cache
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\App.g.cs
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo_MarkupCompile.cache
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo_MarkupCompile.lref
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.g.resources
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.Properties.Resources.resources
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.csproj.GenerateResource.cache
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.exe
+D:\Program Files (x86)\prog\AdatKijelzo\AdatKijelzo\obj\Debug\AdatKijelzo.pdb
